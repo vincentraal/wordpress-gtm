@@ -1,0 +1,12 @@
+{
+    "name": "vincentraal/wordpress-gtm",
+    "description": "Wordpress GTM sollution by George Stephanis",
+    "type": "package",
+    "authors": [
+        {
+            "name": "George Stephanis",
+            "email": "info@stephanis.info"
+        }
+    ],
+    "require": {}
+}
